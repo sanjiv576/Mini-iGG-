@@ -1,6 +1,7 @@
 # 🌟 Mini-iGG: Your Ultimate Social Media Experience 🌟
 
 [![Watch the demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtu.be/8V7Ty8ulyYs)
+[![wakatime](https://wakatime.com/badge/user/1079a72d-bea5-4841-8497-e845e5df22a4/project/e0112fe4-fd05-470f-89f3-bd9b48f59fbe.svg)](https://wakatime.com/badge/user/1079a72d-bea5-4841-8497-e845e5df22a4/project/e0112fe4-fd05-470f-89f3-bd9b48f59fbe)
 
 Mini-iGG is a feature-packed mobile application, inspired by Instagram, that offers real-time interaction with a user-friendly experience. Built using Flutter, Firebase for the backend, and Riverpod for efficient state management, Mini-iGG provides seamless functionality for connecting and sharing in a visually engaging way.
 
@@ -46,9 +47,7 @@ Mini-iGG is a feature-packed mobile application, inspired by Instagram, that off
 
 Mini-iGG is now available for purchase! Whether you're looking to launch a new social platform or enhance your current app with rich social features, **Mini-iGG** is a solid foundation.
 
-**🚀 Transform your ideas into reality with Mini-iGG!**
-
-[![Watch the demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtu.be/8V7Ty8ulyYs)
+- [Contact Us](https://forms.gle/dafrv5Y7R9bDyrLF8)
 
 ---
 
@@ -89,11 +88,20 @@ Mini-iGG is now available for purchase! Whether you're looking to launch a new s
 
 ---
 
+## 📺 **Watch Demo**
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8V7Ty8ulyYs" target="_blank">
+    <img src="https://img.youtube.com/vi/8V7Ty8ulyYs/0.jpg" alt="Watch Mini-iGG demo on YouTube" width="800" height="450" style="border: 1px solid #ccc;">
+  </a>
+</p>
+
+---
 ## 🚀 Get Started
 
 Want to explore or purchase Mini-iGG?  
 **Contact us today** to get access to this exciting app and start building your social media platform!
 
-[![Watch the demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtu.be/8V7Ty8ulyYs)
-
+- [Contact Us](https://forms.gle/dafrv5Y7R9bDyrLF8)
+  
 ---
